@@ -1,0 +1,7 @@
+name: Christmas
+main: fr.skyost.december.Christmas
+description: A small plugin for Christmas events.
+version: 0.1
+softdepend: [Spout]
+author: Skyost
+website: http://www.skyost.eu
